@@ -1,0 +1,32 @@
+.leak-detail-price-card,
+.leak-detail-anon-card {
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+  
+.leak-detail-price-card h3 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+  
+.leak-detail-price-card p {
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+  
+.leak-detail-btc {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+  
+.leak-detail-buy-btn {
+  background-color: #1f2937;
+  color: #fff;
+  border: none;
+  padding: 8px 14px;
+  border-radius: 4px;
+  cursor: not-allowed;
+  width: 100%;
+}

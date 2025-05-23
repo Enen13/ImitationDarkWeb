@@ -1,0 +1,19 @@
+.leak-card {
+  display: flex;
+  align-items: center;
+  background: #f9f9f9;
+  padding: 1rem;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: box-shadow 0.2s ease;
+}
+  
+.leak-card:hover {
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+  
+.leak-card img {
+  width: 48px;
+  height: 48px;
+  margin-right: 1rem;
+}

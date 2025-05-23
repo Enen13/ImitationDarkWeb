@@ -1,0 +1,44 @@
+.header-actions {
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+}
+  
+.leak-detail-main {
+  display: flex;
+  padding: 20px;
+}
+  
+.leak-detail-content {
+  flex: 3;
+}
+  
+.leak-detail-card {
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  overflow: hidden;
+  margin-bottom: 20px;
+}
+  
+.leak-detail-title {
+  background-color: #2e2e38;
+  color: #fff;
+  padding: 10px 20px;
+  font-weight: bold;
+}
+  
+.leak-detail-desc {
+  padding: 15px 20px;
+  font-size: 15px;
+  color: #333;
+}
+  
+.leak-detail-stars {
+  color: #f59e0b;
+  font-weight: bold;
+}
+  
+.leak-detail-sidebar {
+  flex: 1;
+  margin-left: 20px;
+}

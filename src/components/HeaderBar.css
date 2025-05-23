@@ -1,0 +1,29 @@
+header {
+    background-color: #111;
+    color: white;
+    padding: 1rem 2rem;
+    border-radius: 12px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .header-actions {
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+  }
+  
+  button.primary {
+    background-color: #28a745;
+    color: white;
+    cursor: not-allowed;
+  }
+    
+  button.secondary {
+    background-color: transparent;
+    color: white;
+    border: 1px solid white;
+    cursor: not-allowed;
+  }
