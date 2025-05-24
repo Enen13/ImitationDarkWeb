@@ -21,6 +21,7 @@ const LeakDetailPage = () => {
 
 	const sampleData = leak.sample;
 	const title = leak.title;
+	const post_date = leak.post_date;
 	const stars = leak.stars;
 
 	return (
@@ -29,16 +30,19 @@ const LeakDetailPage = () => {
 			<main className="leak-detail-main">
 				<div className="leak-detail-content">
 					<div className="leak-detail-card">
-						<div className="leak-detail-title">{title}</div>
+						<div className="leak-detail-title-row">
+							<div className="leak-detail-title">{title}</div>
+							<div className="leak-detail-date">{post_date}</div>
+						</div>
 						<div className="leak-detail-desc">
 						<div className="leaked-info-container">
 							{sampleData.map((item, index) => (
 								<div key={index} className="leaked-entry">
 								<p><strong>Name:</strong> {item.name}</p>
-								<p><strong>Phone:</strong> {item.phone}</p>
-								<p><strong>SSN:</strong> {item.ssn}</p>
-								<p><strong>ID:</strong> {item.id}</p>
-								<p><strong>Email:</strong> {item.email}</p>
+								{item.phone && <p><strong>Phone:</strong> {item.phone}</p>}
+								{item.ssn && <p><strong>SSN:</strong> {item.ssn}</p>}
+								{item.id && <p><strong>ID:</strong> {item.id}</p>}
+								{item.email && <p><strong>Email:</strong> {item.email}</p>}
 								<br />
 								</div>
 							))}

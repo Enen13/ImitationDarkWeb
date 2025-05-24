@@ -1,5 +1,11 @@
+.leak-card-link {
+  text-decoration: none;
+  color: inherit;
+}
+
 .leak-card {
   display: flex;
+  justify-content: space-between;
   align-items: center;
   background: #f9f9f9;
   padding: 1rem;
@@ -16,4 +22,19 @@
   width: 48px;
   height: 48px;
   margin-right: 1rem;
+}
+
+.leak-card-content {
+  display: flex;
+  align-items: center;
+}
+
+.leak-card-title {
+  margin-left: 10px;
+}
+
+.leak-card-date {
+  margin-right: 10px;
+  font-size: 1em;
+  color: #888;
 }

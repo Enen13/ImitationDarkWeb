@@ -19,12 +19,24 @@
   overflow: hidden;
   margin-bottom: 20px;
 }
-  
-.leak-detail-title {
+
+.leak-detail-title-row {
   background-color: #2e2e38;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.leak-detail-title {
   color: #fff;
   padding: 10px 20px;
   font-weight: bold;
+}
+
+.leak-detail-date {
+  color: #fff;
+  font-size: 0.9em;
+  padding: 10px 20px;
 }
   
 .leak-detail-desc {

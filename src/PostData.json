@@ -1,212 +1,111 @@
 [
     {
-      "title": "[SELLING] Korean National Insurance Leak",
+      "title": "[DUMP] Korean Health Records Dump",
+      "post_date": "2025-05-24 15:32:11",
       "dollar": 300,
       "stars": 4,
       "sample": [
-        {
-          "name": "Choi Hyejin",
-          "phone": "010-2222-3333",
-          "ssn": "850505-2******",
-          "id": "hyejin123",
-          "email": "hyejin123@email.com"
-        },
-        {
-          "name": "Jung Wonho",
-          "phone": "010-1111-0000",
-          "ssn": "900101-1******",
-          "id": "wonho123",
-          "email": "wonho123@email.com"
-        }
+        {"name": "Kim Nayeon", "id": "nayeon_k", "ssn": "930909-2******"},
+        {"name": "Shin Mirae", "id": "mirae_s", "ssn": "930412-2******"},
+        {"name": "Park Yujin", "id": "yujin_p", "ssn": "920305-2******"}
       ]
     },
     {
       "title": "[SELLING] Korea Telecom Client Leak",
+      "post_date": "2025-05-24 14:22:01",
       "dollar": 250,
       "stars": 5,
       "sample": [
-        {
-          "name": "Park Yujin",
-          "phone": "010-3333-4444",
-          "ssn": "920305-2******",
-          "id": "yujin_p",
-          "email": "yujin92@mail.com"
-        },
-        {
-          "name": "Kim Hyunwoo",
-          "phone": "010-5555-6666",
-          "ssn": "880810-1******",
-          "id": "hyunwoo88",
-          "email": "hyunwoo88@naver.com"
-        }
+        {"name": "Nam Hojun", "ssn": "890101-1******", "id": "hojun89"},
+        {"name": "Shin Mirae", "ssn": "930412-2******", "id": "mirae_s"}
       ]
     },
     {
-      "title": "[LEAK] Seoul Residents Private Data",
+      "title": "[LEAK] Seoul Citizen Info Sample",
+      "post_date": "2025-05-24 14:02:15",
       "dollar": 280,
       "stars": 4,
       "sample": [
-        {
-          "name": "Lee Sunhee",
-          "phone": "010-7777-8888",
-          "ssn": "860927-2******",
-          "id": "sunhee_l",
-          "email": "sunhee_l@gmail.com"
-        },
-        {
-          "name": "Yoon Jaemin",
-          "phone": "010-9999-0000",
-          "ssn": "910612-1******",
-          "id": "jaemin91",
-          "email": "jaemin_y@daum.net"
-        }
+        {"name": "Nam Hojun", "phone": "010-2323-3434", "email": "hojun.bank@hanmail.net"},
+        {"name": "Song Harin", "phone": "010-5050-9090", "email": "harinsong@korea.kr"},
+        {"name": "Lee Sunhee", "phone": "010-7777-8888", "email": "sunhee_l@gmail.com"}
       ]
     },
     {
-      "title": "[SELLING] Insurance Claimant Database",
+      "title": "[SELLING] Insurance Applicants Database",
+      "post_date": "2025-05-24 13:55:04",
       "dollar": 320,
       "stars": 4,
       "sample": [
-        {
-          "name": "Han Soyeon",
-          "phone": "010-4444-1212",
-          "ssn": "940201-2******",
-          "id": "soyeon_h",
-          "email": "soyeonh@korea.com"
-        },
-        {
-          "name": "Kang Minji",
-          "phone": "010-8888-2323",
-          "ssn": "950713-2******",
-          "id": "minjik",
-          "email": "minjik@naver.com"
-        }
+        {"name": "Kwon Yuri", "phone": "010-6262-7373", "ssn": "891212-2******"},
+        {"name": "Kang Minji", "phone": "010-8888-2323", "ssn": "950713-2******"}
       ]
     },
     {
-      "title": "[DUMP] Korean Citizen Identity Leak",
+      "title": "[DUMP] Hospital Patient Snippet",
+      "post_date": "2025-05-24 11:33:47",
       "dollar": 310,
       "stars": 3,
       "sample": [
-        {
-          "name": "Seo Donghyun",
-          "phone": "010-1010-4545",
-          "ssn": "890909-1******",
-          "id": "donghyunseo",
-          "email": "donghyun89@gmail.com"
-        },
-        {
-          "name": "Lim Nayoung",
-          "phone": "010-6767-9898",
-          "ssn": "870321-2******",
-          "id": "nayoung_lim",
-          "email": "nayoung.lim@email.com"
-        }
+        {"name": "Choi Hyejin", "id": "hyejin123", "email": "hyejin123@email.com"},
+        {"name": "Kang Minji", "id": "minjik", "email": "minjik@naver.com"},
+        {"name": "Lim Nayoung", "id": "nayoung_lim", "email": "nayoung.lim@email.com"},
+        {"name": "Kwon Yuri", "id": "yurikwon", "email": "kwon.yuri@email.com"}
       ]
     },
     {
-      "title": "[SELLING] Korean Hospital Patient Info",
+      "title": "[SELLING] Banking User Credentials",
+      "post_date": "2025-05-24 08:43:42",
       "dollar": 350,
       "stars": 3,
       "sample": [
-        {
-          "name": "Shin Mirae",
-          "phone": "010-2020-3030",
-          "ssn": "930412-2******",
-          "id": "mirae_s",
-          "email": "mirae93@hospital.com"
-        },
-        {
-          "name": "Baek Jisoo",
-          "phone": "010-4040-5050",
-          "ssn": "960824-2******",
-          "id": "jisoo_bk",
-          "email": "jisoo_bk@naver.com"
-        }
+        {"name": "Kim Hyunwoo", "phone": "010-5555-6666", "id": "hyunwoo88", "email": "hyunwoo88@naver.com"},
+        {"name": "Lee Doyoon", "phone": "010-1717-1818", "id": "doyoon_lee", "email": "doyoonlee@mail.net"},
+        {"name": "Choi Hyejin", "phone": "010-2222-3333", "id": "hyejin123", "email": "hyejin123@email.com"}
       ]
     },
     {
-      "title": "[LEAK] Korean Banking Clients Data",
+      "title": "[LEAK] Voting Information Partial",
+      "post_date": "2025-05-23 18:27:56",
       "dollar": 370,
       "stars": 5,
       "sample": [
-        {
-          "name": "Nam Hojun",
-          "phone": "010-2323-3434",
-          "ssn": "890101-1******",
-          "id": "hojun89",
-          "email": "hojun.bank@hanmail.net"
-        },
-        {
-          "name": "Oh Nari",
-          "phone": "010-5656-7878",
-          "ssn": "970707-2******",
-          "id": "narioh",
-          "email": "narioh@naver.com"
-        }
+        {"name": "Nam Hojun", "ssn": "890101-1******"},
+        {"name": "Choi Hyejin", "ssn": "850505-2******"}
       ]
     },
     {
-      "title": "[DUMP] Korean Job Portal Leak",
+      "title": "[DUMP] ISP User Fragments",
+      "post_date": "2025-05-23 14:33:26",
       "dollar": 200,
       "stars": 4,
       "sample": [
-        {
-          "name": "Joo Taemin",
-          "phone": "010-3939-1010",
-          "ssn": "910223-1******",
-          "id": "taemin_j",
-          "email": "taemin@jobkorea.com"
-        },
-        {
-          "name": "Kwon Yuri",
-          "phone": "010-6262-7373",
-          "ssn": "891212-2******",
-          "id": "yurikwon",
-          "email": "kwon.yuri@email.com"
-        }
+        {"name": "Baek Jisoo", "phone": "010-4040-5050"},
+        {"name": "Joo Taemin", "phone": "010-3939-1010"},
+        {"name": "Park Yujin", "phone": "010-3333-4444"},
+        {"name": "Han Soyeon", "phone": "010-4444-1212"}
       ]
     },
     {
-      "title": "[SELLING] Korea Voting Registry Leak",
+      "title": "[SELLING] Employment Portal Exposure",
+      "post_date": "2025-05-22 16:45:29",
       "dollar": 330,
       "stars": 5,
       "sample": [
-        {
-          "name": "Song Harin",
-          "phone": "010-5050-9090",
-          "ssn": "920829-2******",
-          "id": "harin_song",
-          "email": "harinsong@korea.kr"
-        },
-        {
-          "name": "Jeon Youngho",
-          "phone": "010-3030-7070",
-          "ssn": "850315-1******",
-          "id": "youngjeon",
-          "email": "youngho@naver.com"
-        }
+        {"name": "Kang Minji", "email": "minjik@naver.com"},
+        {"name": "Oh Nari", "email": "narioh@naver.com"},
+        {"name": "Yoon Jaemin", "email": "jaemin_y@daum.net"}
       ]
     },
     {
-      "title": "[LEAK] Korean ISP Customer Info",
+      "title": "[LEAK] Randomized Korean ID Leak",
+      "post_date": "2025-05-21 17:34:56",
       "dollar": 290,
       "stars": 4,
       "sample": [
-        {
-          "name": "Kim Nayeon",
-          "phone": "010-5151-6262",
-          "ssn": "930909-2******",
-          "id": "nayeon_k",
-          "email": "nayeon.kim@internet.com"
-        },
-        {
-          "name": "Lee Doyoon",
-          "phone": "010-1717-1818",
-          "ssn": "901231-1******",
-          "id": "doyoon_lee",
-          "email": "doyoonlee@mail.net"
-        }
+        {"name": "Park Yujin", "phone": "010-3333-4444", "ssn": "920305-2******", "id": "yujin_p", "email": "yujin92@mail.com"},
+        {"name": "Lee Doyoon", "phone": "010-1717-1818", "ssn": "901231-1******", "id": "doyoon_lee", "email": "doyoonlee@mail.net"},
+        {"name": "Oh Nari", "phone": "010-5656-7878", "ssn": "970707-2******", "id": "narioh", "email": "narioh@naver.com"}
       ]
     }
 ]

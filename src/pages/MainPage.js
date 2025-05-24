@@ -19,7 +19,7 @@ const MainPage = () => {
           <h2>Latest Data Leaks</h2>
           <div className="leak-list">
             {PostData.map((leak, idx) => (
-              <LeakCard key={idx} title={leak.title} idx={idx} />
+              <LeakCard key={idx} title={leak.title} idx={idx} post_date={leak.post_date} />
             ))}
           </div>
         </section>
